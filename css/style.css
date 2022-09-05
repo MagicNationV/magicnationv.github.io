@@ -506,6 +506,8 @@ body{
 
     .nav__link--show{
         --show: block;
+        opacity: 1;
+        pointer-events: unset;
     }
 
     .nav__close{
